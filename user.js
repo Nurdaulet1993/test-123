@@ -7,5 +7,6 @@ const user = {
     city: 'Anytown',
     state: 'CA',
     zip: '12345'
-  }
+  },
+  phone: '+1 555-555-5555'
 }
