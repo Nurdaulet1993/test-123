@@ -8,5 +8,6 @@ const user = {
     state: 'CA',
     zip: '12345'
   },
-  phone: '+1 555-555-5555'
+  phone: '+1 555-555-5555',
+  hobbies: ['reading', 'painting', 'gardening'],
 }
